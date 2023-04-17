@@ -204,9 +204,14 @@ Here are some of them (not in any specific order)
 
 Links
 ============
+
 [0] CoVE architecture Specification.
     https://github.com/riscv-non-isa/riscv-ap-tee/blob/main/specification/riscv-aptee-spec.pdf
+
 [1] NACL SBI Extension
+
 [2] https://github.com/riscv/riscv-aia/releases/download/1.0-RC2/riscv-interrupts-1.0-RC2.pdf 
+
 [3] https://github.com/rivosinc/linux/tree/cove_integration_device_filtering1
+
 [4] https://github.com/intel/tdx/commits/guest-filter-upstream 
